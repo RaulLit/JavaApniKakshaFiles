@@ -1,0 +1,49 @@
+Data Types and Variables
+Type Casting & Taking user input
+Operators in java
+Binary Conversions
+Conditional Statement: if-else
+Nested if else and logical operators
+Switch-case
+for loops
+nested for-loops
+Pattern Questions
+while loop & do-while loop
+Arrays
+Multidimensional Arrays
+Sorting: bubble Sort, Selection Sort
+String
+Anagram of a string
+----Website practice starts----
+Object Oriented Programming (Oops)
+Methods
+Constructors
+Packages and Access Modifiers
+Encapsulation
+Reverse a string word by word
+Static keyword
+Inheritance
+Singleton class and multiple inheritance
+Two pointer Algo | 3 Sum Problem
+Polymorphism
+Abstraction and abstract Keyword
+Final Keyword
+Interface
+Exception handling
+Data Structure | Collection Framework
+Arraylist
+LinkedList
+Vectors and Stack
+Queue
+Doubly Ended Queue
+Priority Queue
+Sliding Window Maximum Question | LeetCode
+Sets Data Structure
+Zero Sum Subarray 
+Hash Maps
+HashCode and Equals
+Group Anagrams Question | LeetCode
+Comparables vs Comparators
+Recursion
+Advance Recursion Problems
+Backtracking
