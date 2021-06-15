@@ -16,8 +16,8 @@ public class Q11 {
 			
 			for (int j = 0; j <= i; j++) {
 				System.out.print(number + "   ");
-                number = number * (i - j) / (j + 1);	//This is what makes it work
-            }
+                		number = number * (i - j) / (j + 1);	//This is what makes it work
+            		}
 			
 			System.out.println();
 		}
